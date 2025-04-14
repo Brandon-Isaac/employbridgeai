@@ -40,7 +40,7 @@ import { ToastNotificationComponent } from '../../../shared/components/toast-not
       <mat-card class="auth-card">
         <mat-card-header>
           <div class="header-content">
-            <h1 class="app-title">SkillsMatch AI</h1>
+            <h1 class="app-title">SkillMatch AI</h1>
             <mat-card-title>Welcome Back</mat-card-title>
             <mat-card-subtitle>Sign in to your account</mat-card-subtitle>
           </div>
