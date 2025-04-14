@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;64cb9807013989084fc2c48c9f4e6bbe26beac3563fe08e13320cb7151110acb;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/admin/components/platform-analytics/platform-analytics.component.ts"],
+  "sourcesContent": ["\n      .platform-analytics-container {\n        padding: 20px;\n      }\n      .metric-card {\n        width: 100%;\n        height: 100%;\n      }\n      .metric-value {\n        font-size: 2em;\n        font-weight: bold;\n        text-align: center;\n        margin-top: 20px;\n      }\n      .trend-up {\n        color: #4caf50;\n      }\n      .trend-down {\n        color: #f44336;\n      }\n      .trend-stable {\n        color: #2196f3;\n      }\n      mat-card-header {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA,CAAC;AACC,SAAO;AACP,UAAQ;AACV;AACA,CAAC;AACC,aAAW;AACX,eAAa;AACb,cAAY;AACZ,cAAY;AACd;AACA,CAAC;AACC,SAAO;AACT;AACA,CAAC;AACC,SAAO;AACT;AACA,CAAC;AACC,SAAO;AACT;AACA;AACE,WAAS;AACT,mBAAiB;AACjB,eAAa;AACf;",
+  "names": []
+}

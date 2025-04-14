@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;a5b2ba17f7bb3060ffc9c4355186489193c84427331bd5b73d4f985b7e11b9ea;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/employer/components/manage-interviews/manage-interviews.component.ts"],
+  "sourcesContent": ["\n      .interviews-container {\n        padding: 20px;\n      }\n      .interviews-table {\n        width: 100%;\n      }\n      mat-card-header {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n      }\n      mat-chip {\n        text-transform: capitalize;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA,CAAC;AACC,SAAO;AACT;AACA;AACE,WAAS;AACT,mBAAiB;AACjB,eAAa;AACf;AACA;AACE,kBAAgB;AAClB;",
+  "names": []
+}

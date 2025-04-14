@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;44a6db15c65be7bc47d2eebd319e52790ed68f1b6f633870258e948c359ed5a9;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/employer/components/post-job/post-job.component.ts"],
+  "sourcesContent": ["\n      .post-job-container {\n        max-width: 800px;\n        margin: 0 auto;\n        padding: 40px 20px;\n      }\n      .full-width {\n        width: 100%;\n        margin-bottom: 20px;\n      }\n      .button-container {\n        display: flex;\n        justify-content: flex-start;\n        margin-top: 20px;\n      }\n      .post-button {\n        min-width: 120px;\n        height: 45px;\n        font-size: 16px;\n      }\n      ::ng-deep .mat-mdc-form-field-subscript-wrapper {\n        display: none;\n      }\n      ::ng-deep .mat-mdc-form-field {\n        background: white;\n        border-radius: 4px;\n      }\n      ::ng-deep .mat-mdc-text-field-wrapper {\n        background: white !important;\n      }\n      ::ng-deep .mat-mdc-form-field-flex {\n        background: white !important;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,aAAW;AACX,UAAQ,EAAE;AACV,WAAS,KAAK;AAChB;AACA,CAAC;AACC,SAAO;AACP,iBAAe;AACjB;AACA,CAAC;AACC,WAAS;AACT,mBAAiB;AACjB,cAAY;AACd;AACA,CAAC;AACC,aAAW;AACX,UAAQ;AACR,aAAW;AACb;AACA,UAAU,CAAC;AACT,WAAS;AACX;AACA,UAAU,CAAC;AACT,cAAY;AACZ,iBAAe;AACjB;AACA,UAAU,CAAC;AACT,cAAY;AACd;AACA,UAAU,CAAC;AACT,cAAY;AACd;",
+  "names": []
+}

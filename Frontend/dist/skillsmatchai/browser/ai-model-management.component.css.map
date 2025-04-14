@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;d7eabf50fd94e4b039b2116e419e56f6b25a513c898882fd7d30fb645b3b518c;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/admin/components/ai-model-management/ai-model-management.component.ts"],
+  "sourcesContent": ["\n      .ai-model-management-container {\n        padding: 20px;\n      }\n      .model-list {\n        display: grid;\n        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n        gap: 20px;\n        margin-top: 20px;\n      }\n      .model-card {\n        height: 100%;\n      }\n      .model-status {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        margin-bottom: 10px;\n      }\n      .model-metrics {\n        margin: 10px 0;\n      }\n      .model-features {\n        margin-top: 10px;\n      }\n      mat-card-actions {\n        display: flex;\n        justify-content: space-between;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA,CAAC;AACC,WAAS;AACT,yBAAuB,OAAO,SAAS,EAAE,OAAO,KAAK,EAAE;AACvD,OAAK;AACL,cAAY;AACd;AACA,CAAC;AACC,UAAQ;AACV;AACA,CAAC;AACC,WAAS;AACT,mBAAiB;AACjB,eAAa;AACb,iBAAe;AACjB;AACA,CAAC;AACC,UAAQ,KAAK;AACf;AACA,CAAC;AACC,cAAY;AACd;AACA;AACE,WAAS;AACT,mBAAiB;AACnB;",
+  "names": []
+}

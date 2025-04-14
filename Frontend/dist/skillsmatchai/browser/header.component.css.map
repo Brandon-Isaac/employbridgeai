@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;adf37d731839a617803faf8a560e8a28455c8d040944323efb38fe63d77191b3;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/shared/components/header/header.component.ts"],
+  "sourcesContent": ["\n    .header {\n      display: flex;\n      justify-content: space-between;\n      align-items: center;\n      padding: 0 2rem;\n    }\n    .logo h1 {\n      margin: 0;\n      font-size: 1.5rem;\n      font-weight: 500;\n    }\n    .nav-buttons {\n      display: flex;\n      gap: 1rem;\n    }\n  "],
+  "mappings": ";AACI,CAAC;AACC,WAAS;AACT,mBAAiB;AACjB,eAAa;AACb,WAAS,EAAE;AACb;AACA,CAAC,KAAK;AACJ,UAAQ;AACR,aAAW;AACX,eAAa;AACf;AACA,CAAC;AACC,WAAS;AACT,OAAK;AACP;",
+  "names": []
+}

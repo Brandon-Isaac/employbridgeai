@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;bdcac0199fc4ab5630d78a186ea5b0b79a2be30e33d491bd23f3be367a50a627;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/employer/components/view-candidates/view-candidates.component.ts"],
+  "sourcesContent": ["\n      .view-candidates-container {\n        padding: 20px;\n      }\n      .filters {\n        display: flex;\n        gap: 20px;\n        margin-bottom: 20px;\n      }\n      .candidates-list {\n        display: grid;\n        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n        gap: 20px;\n      }\n      .candidate-card {\n        height: 100%;\n      }\n      .candidate-info {\n        margin: 10px 0;\n      }\n      .skills {\n        margin: 10px 0;\n      }\n      .match-score {\n        margin: 10px 0;\n      }\n      mat-card-actions {\n        display: flex;\n        justify-content: space-between;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA,CAAC;AACC,WAAS;AACT,OAAK;AACL,iBAAe;AACjB;AACA,CAAC;AACC,WAAS;AACT,yBAAuB,OAAO,SAAS,EAAE,OAAO,KAAK,EAAE;AACvD,OAAK;AACP;AACA,CAAC;AACC,UAAQ;AACV;AACA,CAAC;AACC,UAAQ,KAAK;AACf;AACA,CAAC;AACC,UAAQ,KAAK;AACf;AACA,CAAC;AACC,UAAQ,KAAK;AACf;AACA;AACE,WAAS;AACT,mBAAiB;AACnB;",
+  "names": []
+}

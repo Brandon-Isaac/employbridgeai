@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;e40bd6feaaf40e4e98c6af7b53b18f7d24ef358eb59f55511d7855c42924f095;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/job-seeker/components/cv-manager/cv-manager.component.ts"],
+  "sourcesContent": ["\n      .cv-container {\n        padding: 20px;\n      }\n      .cv-form {\n        margin-bottom: 20px;\n      }\n      .full-width {\n        width: 100%;\n        margin-bottom: 16px;\n      }\n      .cv-list {\n        margin-top: 20px;\n      }\n      .cv-details {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        margin-top: 16px;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA,CAAC;AACC,iBAAe;AACjB;AACA,CAAC;AACC,SAAO;AACP,iBAAe;AACjB;AACA,CAAC;AACC,cAAY;AACd;AACA,CAAC;AACC,WAAS;AACT,mBAAiB;AACjB,eAAa;AACb,cAAY;AACd;",
+  "names": []
+}

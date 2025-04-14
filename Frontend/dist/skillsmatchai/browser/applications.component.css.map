@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;bfd1569985ae0084918965dde0ea864887d6fc3bb6b234a7989d91781e7e2182;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/job-seeker/components/applications/applications.component.ts"],
+  "sourcesContent": ["\n      .applications-container {\n        padding: 16px;\n        width: 100%;\n        overflow-x: auto;\n      }\n\n      .elevated-card {\n        border-radius: 12px;\n        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);\n      }\n\n      .applications-table {\n        width: 100%;\n        min-width: 600px;\n        border-collapse: collapse;\n      }\n      @media (max-width: 768px) {\n        .applications-container {\n          padding: 8px;\n        }\n\n        .mat-header-cell,\n        .mat-cell {\n          padding: 8px 12px;\n          font-size: 14px;\n        }\n\n        .status-chip {\n          font-size: 12px;\n        }\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACT,SAAO;AACP,cAAY;AACd;AAEA,CAAC;AACC,iBAAe;AACf,cAAY,IAAI,IAAI,KAAK,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACzC;AAEA,CAAC;AACC,SAAO;AACP,aAAW;AACX,mBAAiB;AACnB;AACA,OAAO,CAAC,SAAS,EAAE;AACjB,GAjBD;AAkBG,aAAS;AACX;AAEA,GAAC;AAAA,EACD,CAAC;AACC,aAAS,IAAI;AACb,eAAW;AACb;AAEA,GAAC;AACC,eAAW;AACb;AACF;",
+  "names": []
+}

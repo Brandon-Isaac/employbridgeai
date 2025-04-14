@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;3bf92362ef6d3d203db3099002b98b3b0ef31d6445980d8199f776de0b5513a4;C:/Users/Datch/Desktop/skillsmatchai/Frontend/src/app/employer/components/listings/active-listings/active-listings.component.ts"],
+  "sourcesContent": ["\n      .listings-container {\n        padding: 20px;\n      }\n      table {\n        width: 100%;\n      }\n      .mat-column-actions {\n        width: 120px;\n      }\n      .mat-card-header {\n        margin-bottom: 20px;\n      }\n      .mat-card-title {\n        font-size: 24px;\n        font-weight: 500;\n      }\n      .mat-card-subtitle {\n        font-size: 16px;\n      }\n      .mat-chip-set {\n        display: inline-block;\n      }\n    "],
+  "mappings": ";AACM,CAAC;AACC,WAAS;AACX;AACA;AACE,SAAO;AACT;AACA,CAAC;AACC,SAAO;AACT;AACA,CAAC;AACC,iBAAe;AACjB;AACA,CAAC;AACC,aAAW;AACX,eAAa;AACf;AACA,CAAC;AACC,aAAW;AACb;AACA,CAAC;AACC,WAAS;AACX;",
+  "names": []
+}
